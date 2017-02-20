@@ -1,0 +1,125 @@
+/*Pencil group
+Code created by Tuan Lu Dinh
+Last modified date: Nov 3rd 2016 */
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+h4 {
+    font-size: 19px;
+    line-height: 1.0em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.container-fluid {
+    padding: 60px 50px;
+}
+img.bg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.product{
+  width: auto;
+  height: 300px;
+}
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #ff1a1a;
+}
+.logo{
+  color: #ff1a1a;
+  font-size: 150px;
+}
+.logo-small{
+  color: #f4511e;
+  font-size: 50px;
+}
+.bg-grey{
+  background-color: #f6f6f6;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover, a:active {
+    text-decoration: none;
+}
+/* HEADER NAVIGATION STYLE*/
+.navbar-styleh{ background-color: #ff1a1a;border-color: #ff1a1a;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.navbar-styleh .navbar-brand:focus,.navbar-styleh .navbar-brand:hover{color:#fff; background-color:transparent}
+.navbar-styleh .navbar-brand{font-family: abel,Raleway Heavy; font-size: 30px; color:#fff;}
+.navbar-styleh .navbar-nav>li>a{color:#fff;}
+.navbar-styleh .navbar-nav>li>a:focus,.navbar-styleh .navbar-nav>li>a:hover{color:#fff; background-color:transparent;}
+.navbar-styleh .navbar-nav>.active>a,.navbar-styleh .navbar-nav>.active>a:focus,.navbar-styleh .navbar-nav>.active>a:hover{color:#ff1a1a; background-color:#fff;}
+.navbar-styleh .navbar-nav>.disabled>a,.navbar-styleh .navbar-nav>.disabled>a:focus,.navbar-styleh .navbar-nav>.disabled>a:hover{color:#ff1a1a;background-color:transparent}
+/* ANIMATION */
+.slideanim {visibility:hidden;}
+.slide {
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    visibility: visible;
+}
+@keyframes slide {
+  0% {
+    opacity: 0;
+    transform: translateY(70%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+@-webkit-keyframes slide {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(70%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0%);
+  }
+}
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+  .btn-lg {
+      width: 100%;
+      margin-bottom: 35px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .logo {
+      font-size: 150px;
+  }
+}
+/*INPUT*/
+input[type="text"] {
+    /* Flexibility */
+    box-sizing: border-box;
+    width: 100%;
+
+    /* Styling */
+    padding: .4em .55em;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    border: 0;
+    border-radius: .25em;
+    outline: none
+}
