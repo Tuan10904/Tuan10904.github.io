@@ -1,6 +1,5 @@
 /*Pencil group
-Code created by w3school
-Last modified date: Nov 1st 2016 */
+Last modified date: Feb 21 2017 */
 $(document).ready(function(){
   // Add smooth scrolling to all links in navbar + footer lin
   $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
