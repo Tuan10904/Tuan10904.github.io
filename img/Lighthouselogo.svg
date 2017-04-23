@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="30.994049mm"
+   viewBox="0 0 200.00001 30.994049"
+   version="1.1"
+   id="svg16"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Lighthouselogo.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-6.5506656"
+     inkscape:cy="134.77806"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-2.4935576e-007,-0.75595057"
+       orientation="0,793.70079"
+       id="guide22"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="183.3469,24.588797"
+       orientation="-1122.5197,0"
+       id="guide24"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.573977,-0.75595057"
+       orientation="0,-793.70079"
+       id="guide26"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-2.4935576e-007,30.2381"
+       orientation="1122.5197,0"
+       id="guide28"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.410713,-112.54762)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot28"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion30"><rect
+           id="rect32"
+           width="414.28571"
+           height="174.28572"
+           x="71.428574"
+           y="428.23398" /></flowRegion><flowPara
+         id="flowPara34" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot46"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion48"><rect
+           id="rect50"
+           width="260"
+           height="111.42857"
+           x="508.57144"
+           y="428.23398" /></flowRegion><flowPara
+         id="flowPara52" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="137.2971"
+       y="135.6366"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         x="137.2971"
+         y="135.6366"
+         style="fill:#ffffff;stroke-width:0.26458332;">studio</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Layer 2">
+      <rect
+         id="rect18"
+         width="114.14881"
+         height="30.994047"
+         x="20.410713"
+         y="112.54762"
+         style="fill:none;stroke-width:0.22135736;stroke:none;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="rect4500"
+         width="114.14881"
+         height="30.238102"
+         x="20.410713"
+         y="113.30357" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="24.600876"
+       y="135.4476"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="24.600876"
+         y="135.4476"
+         style="fill:#ff0000;stroke-width:0.26458332;">Lighthouse</tspan></text>
+  </g>
+</svg>
