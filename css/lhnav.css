@@ -1,0 +1,42 @@
+/*lighthouse studio
+Created by Lu Dinh Tuan
+Last Modified Date: */
+
+/* HEADER NAVIGATION STYLE*/
+.navbar-style{ 
+	background-color: #ff1a1a;
+	border-color: #ff1a1a; 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navbar-style .navbar-header .img{
+	padding-top: 0; 
+	padding-bottom: 0;
+}
+.navbar-style .navbar-brand:focus,.navbar-style .navbar-brand:hover{
+	color:#fff; background-color:transparent;
+}
+.navbar-style .navbar-brand{
+	color:#fff; 
+	max-height: 100%; 
+	max-width: 100;
+}
+.navbar-style .navbar-nav>li>a{
+	color:#fff; 
+	max-height: 100%; 
+	max-width: 100%;
+}
+.navbar-style .navbar-nav>li>a:focus,.navbar-style .navbar-nav>li>a:hover{
+	color:#fff; 
+	background-color:transparent;
+}
+.navbar-style .navbar-nav>.active>a,.navbar-style .navbar-nav>.active>a:focus,.navbar-style .navbar-nav>.active>a:hover{
+	color:#ff1a1a; 
+	background-color:#fff;
+}
+.navbar-style .navbar-nav>.disabled>a,.navbar-style .navbar-nav>.disabled>a:focus,.navbar-style .navbar-nav>.disabled>a:hover{
+	color:#ff1a1a;
+	background-color:transparent;
+}
+.non-transparent{
+	opacity: 0.75; filter: opacity(75);	
+}

@@ -1,0 +1,35 @@
+/*lighthouse studio
+Created by Lu Dinh Tuan
+Last Modified Date: */
+.hidden{
+	visibility: hidden;
+}
+.preload{
+	width  : 100%;
+	height : 100%;
+	top    : 0;
+	left   : 0;
+	z-index: 1;
+	bottom : 0;
+	position  : fixed;
+	background: #ff1a1a;
+}
+.logo{
+	width: 300px;
+	height: 150px;
+	margin: 200px auto 0px;
+	align-self: center;
+}
+.ilogo{
+	max-height: 110%;
+	max-width: 110%;
+}
+.loader-frame{
+	margin  : auto;
+	position: relative;
+}
+
+@keyframes fadeout{
+	from {opacity: 1;}
+	to {opacity: 0;}
+}

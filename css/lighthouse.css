@@ -1,0 +1,72 @@
+/*lighthouse studio
+Created by Lu Dinh Tuan
+Last Modified Date: */
+
+/*font set-up*/
+@import url(http://fonts.googleapis.com/css?family=Raleway:300,400,700);
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'codropsicons';
+	src:url('../fonts/codropsicons/codropsicons.eot');
+	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+}
+
+/*Smoothing page*/
+*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+.clearfix:before, .clearfix:after { content: ''; display: table; }
+.clearfix:after { clear: both; }
+
+/*Default background setup*/
+body {
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.8;
+    color: #818181;
+}
+
+/*Default link setup*/
+a {
+	color: #303030;
+	text-decoration: none;
+	outline: none;
+}
+a:hover, a:focus { color: #ff1a1a; }
+.bg-grey a:hover, a:focus { color: #fff; }
+
+
+/*Background set-up*/
+.bg-grey{
+  background-color: #f6f6f6;
+}
+
+/*Container set-up*/
+.container-fluid {
+    padding: 60px 50px;
+}
+
+/**/
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+h4 {
+    font-size: 19px;
+    line-height: 1.0em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+/*icon set-up*/
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #ff1a1a;
+}
